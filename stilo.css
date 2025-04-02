@@ -1,0 +1,23 @@
+/* html{
+    color-scheme: dark;
+}; */
+body{
+    background-color: rgb(43, 45, 96);
+}
+h1{
+    align-items: center;
+    position: absolute;
+    padding-left: 5%;
+    margin-top: 8px;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    color: rgb(224, 227, 255);
+    size: 100px;
+    font-family: "Bytesized", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+};
+p{
+    color: rgb(127, 139, 251);
+    position: absolute;
+}
